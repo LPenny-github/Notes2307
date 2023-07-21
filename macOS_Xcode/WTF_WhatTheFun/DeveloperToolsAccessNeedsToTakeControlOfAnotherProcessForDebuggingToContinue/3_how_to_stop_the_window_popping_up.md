@@ -21,7 +21,7 @@ Let `dev` join `_developer` group.
     open the terminal as administrator:
     
     ```bash
-    sudo dscl . append /Groups/_developer GroupMembership dev
+    sudo dscl . append /groups/_developer GroupMembership dev
     ```
 
     * `sudo`: superuser do
@@ -40,7 +40,25 @@ Let `dev` join `_developer` group.
 
 ## test
 
-reopen Xcode and run the same project
+* reopen Xcode and run the same project
+
+* double check if `dev` is in `_developer`(No. 204) group (optional)
+
+    open the terminal as `dev`:
+
+    ```bash
+    dscl . read /groups/_developer | grep GroupMembership
+    ```
+
+    * `read`: Displays (case insentitive) directory properties.
+    * `|`: forward the output data of one instruction to the input data of another instruction
+    * `grep <keyword>`: searche for lines of text that contains the keyword
+
+    expected output:
+
+    ```bash
+    GroupMembership: dev
+    ```
 
 ## reference
 
@@ -51,4 +69,7 @@ reopen Xcode and run the same project
     * https://developer.apple.com/forums/thread/44758
 
 * dscl: directory services command line
-    * https://www.real-world-systems.com/docs/dslocal.db.html?fbclid=IwAR1r-tmVK98fvE_FPr3TwkU34yqGjNZv9RBfAmqvlT4PXBBYgTS7jm0QzPU
+    * https://www.real-world-systems.com/docs/dslocal.db.html
+
+* 在 Mac 上轉址「終端機」輸入和輸出
+    * https://support.apple.com/zh-tw/guide/terminal/apd1dbe647b-7e11-49dc-aa76-89aa7e53ce36/2.13/mac/13.0
