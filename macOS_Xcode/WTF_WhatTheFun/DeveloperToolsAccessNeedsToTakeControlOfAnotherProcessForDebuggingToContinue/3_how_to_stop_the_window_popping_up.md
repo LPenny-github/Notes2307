@@ -60,6 +60,11 @@ Let `dev` join `_developer` group.
     GroupMembership: dev
     ```
 
+## something interesting
+
+* why adm is not in GroupMembership of _developer
+    * https://github.com/LPenny-github/Notes2307/blob/main/macOS_Terminal/WTF_WhatTheFun/why_adm_is_not_in_GroupMembership_of__developer.md
+
 ## reference
 
 * Stop "developer tools access needs to take control of another process for debugging to continue" alert
