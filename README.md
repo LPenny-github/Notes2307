@@ -3,6 +3,8 @@
   * [first_swift_app](./macOS_Terminal/first_swift_app.md)
   * [Commands](./macOS_Terminal/Commands)
     * [sudo](./macOS_Terminal/Commands/sudo.md)
+  * [WTF_WhatTheFun](./macOS_Terminal/WTF_WhatTheFun)
+    * [why_adm_is_not_in_GroupMembership_of__developer](./macOS_Terminal/WTF_WhatTheFun/why_adm_is_not_in_GroupMembership_of__developer.md)
 * [macOS_Xcode](./macOS_Xcode)
   * [WTF_WhatTheFun](./macOS_Xcode/WTF_WhatTheFun)
     * [DeveloperToolsAccessNeedsToTakeControlOfAnotherProcessForDebuggingToContinue](./macOS_Xcode/WTF_WhatTheFun/DeveloperToolsAccessNeedsToTakeControlOfAnotherProcessForDebuggingToContinue)
