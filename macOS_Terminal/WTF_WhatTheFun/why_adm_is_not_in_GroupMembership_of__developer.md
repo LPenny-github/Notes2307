@@ -1,11 +1,11 @@
 # why adm is not in GroupMembership of _developer
 
 
-# expectation
+## expectation
 
 If `adm` is in `_developer` group, why `adm` doesn't appear in `GroupMembership` of `_developer`?
 
-# description
+## description
 
 `adm` is a user who has administrator privileges.
 
@@ -33,7 +33,7 @@ I only can see:
 GroupMembership: dev
 ```
 
-# what & why
+## what & why
 
 it's due to group design:
 
@@ -110,14 +110,14 @@ RecordType: ☆
 SMBSID: ☆
 ```
 
-# how
+## how
 
 none
 
-# test 
+## test 
 
 none
 
-# reference
+## reference
 
 none
