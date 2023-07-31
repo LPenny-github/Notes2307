@@ -1,4 +1,3 @@
-* [README](./README.md)
 * [macOS_Terminal](./macOS_Terminal)
   * [first_swift_app](./macOS_Terminal/first_swift_app.md)
   * [Commands](./macOS_Terminal/Commands)
