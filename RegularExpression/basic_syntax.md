@@ -18,6 +18,8 @@
 
 `$`: at the end of the line
 
+`^`: at the beginning of the line
+
 `()`: make them a group
 
 ## example
@@ -62,6 +64,36 @@ func BasicWithRegex() -> String {
                 substring.removeFirst(1)
             }
         }
+    }
+```
+
+Since/If our/your native language is traditional Chinese, `BasicWithRegex()` can be rewritten as follows:
+
+```swift
+func RegexWithoutUnicode() -> String {
+        let returnString : String
+        let questionsFromGirlfriend = "餐吃嗎嗎"
+        switch questionsFromGirlfriend {
+        case let x where x.contains(/.*(餐吃)+[^嗎]*(好)?(嗎)$/):
+            // ..餐吃..(好)嗎
+            returnString = "好啊"
+        case let y where y.contains(/.*(你會)+[^嗎]*(嗎)$/):
+            // ..你會..嗎
+            let yy = GetSubstring(words: y)
+            returnString = "那\(yy)？"
+        case let z where z.contains(/.*(是不是)+.*/):
+            // ..是不是..
+            returnString = "那你是不是很喜歡我 >///<"
+        case let a where a.contains(/.*(到底為什麼|為什麼不)+.*/):
+            // ..到底為什麼.. || ..為什麼不..
+            returnString = "我也不知道為什麼 Q^Q"
+        case let b where b.contains(/.*(你到底在)+.*/):
+            // ..你到底在..
+            returnString = "對不起 orz"
+        default:
+            returnString = "你還是一樣漂亮！"
+        }
+        return returnString
     }
 ```
 
