@@ -22,5 +22,7 @@
       * [3_how_to_stop_the_window_popping_up](./macOS_Xcode/WTF_WhatTheFun/DeveloperToolsAccessNeedsToTakeControlOfAnotherProcessForDebuggingToContinue/3_how_to_stop_the_window_popping_up.md)
 * [RegularExpression](./RegularExpression)
   * [basic_syntax](./RegularExpression/basic_syntax.md)
+  * [WTF_WhatTheFun](./RegularExpression/WTF_WhatTheFun)
+    * [partial_match_VS_perfect_match](./RegularExpression/WTF_WhatTheFun/partial_match_VS_perfect_match.md)
 * [WindowsSubsystemForLinux](./WindowsSubsystemForLinux)
   * [install](./WindowsSubsystemForLinux/install.md)
