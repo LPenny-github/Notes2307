@@ -15,6 +15,7 @@
       * [make_sure_you_configure_your_user.name_and_user.email_in_git](./macOS_VSCode/WTF_WhatTheFun/git/make_sure_you_configure_your_user.name_and_user.email_in_git.md)
 * [macOS_Xcode](./macOS_Xcode)
   * [basic_keyboard_shortcuts](./macOS_Xcode/basic_keyboard_shortcuts.md)
+  * [first_swift_command_line_tool](./macOS_Xcode/first_swift_command_line_tool.md)
   * [WTF_WhatTheFun](./macOS_Xcode/WTF_WhatTheFun)
     * [DeveloperToolsAccessNeedsToTakeControlOfAnotherProcessForDebuggingToContinue](./macOS_Xcode/WTF_WhatTheFun/DeveloperToolsAccessNeedsToTakeControlOfAnotherProcessForDebuggingToContinue)
       * [1_find_the_right_info_to_fill_in](./macOS_Xcode/WTF_WhatTheFun/DeveloperToolsAccessNeedsToTakeControlOfAnotherProcessForDebuggingToContinue/1_find_the_right_info_to_fill_in.md)
