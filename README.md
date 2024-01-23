@@ -3,6 +3,7 @@
   * [first_swift_app](./macOS_Terminal/first_swift_app.md)
   * [Commands](./macOS_Terminal/Commands)
     * [git](./macOS_Terminal/Commands/git.md)
+    * [pwd](./macOS_Terminal/Commands/pwd.md)
     * [sudo](./macOS_Terminal/Commands/sudo.md)
   * [WTF_WhatTheFun](./macOS_Terminal/WTF_WhatTheFun)
     * [why_adm_is_not_in_GroupMembership_of__developer](./macOS_Terminal/WTF_WhatTheFun/why_adm_is_not_in_GroupMembership_of__developer.md)
