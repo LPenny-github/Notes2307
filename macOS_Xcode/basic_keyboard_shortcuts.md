@@ -6,4 +6,6 @@
 
 `control` + `command` + `j` : jump to the definition
 
+`option` + `command` + `p` : refresh the canvas
+
 
