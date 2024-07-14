@@ -1,5 +1,6 @@
 * [README](./README.md)
 * [macOS_General](./macOS_General)
+  * [how_to_change_the_mouse_settings_for_left_handed](./macOS_General/how_to_change_the_mouse_settings_for_left_handed.md)
   * [keyboard_shortcuts](./macOS_General/keyboard_shortcuts.md)
 * [macOS_Terminal](./macOS_Terminal)
   * [first_swift_app](./macOS_Terminal/first_swift_app.md)
