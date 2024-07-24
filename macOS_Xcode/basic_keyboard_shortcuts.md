@@ -8,4 +8,6 @@
 
 `option` + `command` + `p` : refresh the canvas
 
+`command` + `0` : hide/show the navigator
 
+`shift` + `command` + `y` : hide/show the debug area
