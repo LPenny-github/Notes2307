@@ -11,3 +11,5 @@
 `command` + `0` : hide/show the navigator
 
 `shift` + `command` + `y` : hide/show the debug area
+
+`control` + `m` : separate **a selected line** onto multiple lines
