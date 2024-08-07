@@ -13,3 +13,5 @@
 `shift` + `command` + `y` : hide/show the debug area
 
 `control` + `m` : separate **a selected line** onto multiple lines
+
+`command` + `+`/`-` : zoom in/out
