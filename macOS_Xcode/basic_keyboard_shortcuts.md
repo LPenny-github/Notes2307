@@ -15,3 +15,5 @@
 `control` + `m` : separate **a selected line** onto multiple lines
 
 `command` + `+`/`-` : zoom in/out
+
+`option` + `command` + `◀️`/`▶️` : code folding/unfolding
