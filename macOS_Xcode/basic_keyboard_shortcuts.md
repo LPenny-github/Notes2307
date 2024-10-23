@@ -17,3 +17,5 @@
 `command` + `+`/`-` : zoom in/out
 
 `option` + `command` + `◀️`/`▶️` : code folding/unfolding
+
+`Control` + `A` + `Control` + `I` : re-arrange code
