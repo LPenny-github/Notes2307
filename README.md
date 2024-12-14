@@ -7,6 +7,8 @@
   * [keyboard_shortcuts](./macOS_General/keyboard_shortcuts.md)
 * [macOS_Safari](./macOS_Safari)
   * [keyboard_shortcuts](./macOS_Safari/keyboard_shortcuts.md)
+* [macOS_Shortcuts](./macOS_Shortcuts)
+  * [help_me_doing_git_pull](./macOS_Shortcuts/help_me_doing_git_pull.md)
 * [macOS_Terminal](./macOS_Terminal)
   * [first_swift_app](./macOS_Terminal/first_swift_app.md)
   * [how_to_generate_ssh_key](./macOS_Terminal/how_to_generate_ssh_key.md)
